@@ -2,10 +2,10 @@
 
  ## Installation
 
- '''
- pip insyall Flask
+ ```
+ pip install Flask
  python app.py
- '''
+ ```
 
  ## Description
 
